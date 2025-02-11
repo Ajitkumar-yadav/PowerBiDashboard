@@ -1,3 +1,1 @@
-# PowerBiDashboard
-The Power BI project titled "HR Attrition Analytics" is a comprehensive dashboard designed to provide insights into employee attrition within an organization. The dashboard offers a detailed analysis of various factors influencing attrition, enabling HR professionals and management to make data-driven decisions to reduce employee turnover and improve retention strategies.
-The HR Attrition Analytics Power BI dashboard is a powerful tool for HR professionals and organizational leaders to monitor and analyze employee turnover. By leveraging this data, organizations can take proactive steps to reduce attrition, improve employee retention, and ultimately enhance organizational performance.
+
